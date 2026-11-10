@@ -1,0 +1,15 @@
+{
+  "name": "organicfertilizersindia",
+  "version": "1.0.0",
+  "description": "Organic Fertilizers India — D2C store of Gujarat Bio Organics Pvt. Ltd. Static HTML/CSS/JS served by a tiny Node server.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Static site - no build needed\"",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
