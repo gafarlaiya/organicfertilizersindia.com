@@ -48,7 +48,7 @@ function productCard(p) {
   return `
   <div class="card" data-cat="${p.category}" data-form="${p.form}">
     <a href="product.html?id=${p.id}">
-      <div class="thumb">${p.image ? `<img src="${p.image}" alt="${p.name}">` : p.icon}</div>
+      <div class="thumb">${p.image ? `<img src="${p.image}" alt="${p.name}" loading="lazy">` : p.icon}</div>
     </a>
     <div class="body">
       <span class="tag">${p.cat_label || (p.category === "biofertilizer" ? "Biofertilizer" : "Biostimulant")} · ${p.form}</span>
@@ -100,7 +100,7 @@ async function renderProduct() {
     ? `<p style="margin-top:10px"><a href="${p.specs_url}" target="_blank" rel="noopener" style="color:var(--green);font-weight:700">Full technical specifications →</a></p>` : "";
 
   wrap.innerHTML = `
-    <div class="pimg">${p.image ? `<img src="${p.image}" alt="${p.name}">` : p.icon}</div>
+    <div class="pimg">${p.image ? `<img src="${p.image}" alt="${p.name}"><span class="img-note">Illustrative image</span>` : p.icon}</div>
     <div class="pinfo">
       <span class="tag">${p.cat_label || ""} · ${p.category === "biofertilizer" ? "Biofertilizer" : "Biostimulant"} · ${p.form}</span>
       <h1>${p.name}</h1>

@@ -113,3 +113,9 @@ footer .fine{border-top:1px solid rgba(255,255,255,.15);padding-top:16px;font-si
   .nav-links{gap:12px;font-size:.85rem}
   .btn-outline{margin-left:0;margin-top:10px}
 }
+
+/* product photos */
+.card .thumb{overflow:hidden}
+.card .thumb img,.pimg img{width:100%;height:100%;object-fit:cover}
+.pimg{overflow:hidden;position:relative}
+.img-note{position:absolute;bottom:8px;left:8px;background:rgba(0,0,0,.45);color:#fff;font-size:.68rem;padding:2px 8px;border-radius:6px}
