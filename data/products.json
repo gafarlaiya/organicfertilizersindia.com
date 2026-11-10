@@ -1,0 +1,1694 @@
+{
+ "_readme": "MASTER PRODUCT FILE — edit this file only to add/change products. No code changes needed. Fields: id (unique, lowercase, hyphens), name, category ('biostimulant' or 'biofertilizer'), form ('liquid' or 'solid'), icon (emoji until real photos), image (optional path like assets/img/humic-5l.jpg — overrides icon), short (one-line benefit), desc (2-3 sentences), benefits (list), crops (list), dose, packs ({size: price in INR, or null = 'Ask on WhatsApp'}). Liquid sizes: 250ml/500ml/1L/5L. Solid sizes: 500g/1kg/2kg/4kg/8kg/25kg. Set sample:true on placeholder entries; remove when real data is in.",
+ "store": {
+  "brand": "Organic Fertilizers India",
+  "tagline": "Factory-direct biostimulants & biofertilizers by Gujarat Bio Organics — since 2006",
+  "whatsapp": "919978791167",
+  "phone": "+91 99787 91167",
+  "email": "orders@organicfertilizersindia.com",
+  "address": "Gujarat Bio Organics Pvt. Ltd., Bhavnagar, Gujarat, India",
+  "shipping_note": "Pan-India delivery. Shipping calculated on WhatsApp confirmation.",
+  "payment_note": "Pay securely online (Razorpay) or confirm your order on WhatsApp."
+ },
+ "products": [
+  {
+   "id": "humic-acid-5-powder",
+   "name": "Humic acid 5% (Powder)",
+   "grade": "Humic acid 5%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A low-concentration humic powder that blends easily into fertiliser mixes, organic manures and soil-applied products.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-5-powder",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "potassium-humate-49-powder",
+   "name": "Potassium humate 49% (Powder)",
+   "grade": "Potassium humate 49%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "The water-soluble potassium salt of humic acid. It dissolves fully, so it suits drip, drench and foliar use, and liquid formulation by brand owners.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Formulator / B2B only",
+   "specs_url": "https://b2b.gujaratbio.com/products/potassium-humate-49-powder",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "humate-and-fulvates-22-liquid",
+   "name": "Humate and fulvates 22% (Liquid)",
+   "grade": "Humate and fulvates 22%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "liquid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A ready-to-use liquid combining humates and fulvates, for drench and drip programmes without dissolving a powder on the farm.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humate-and-fulvates-22-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "humates-12-5-liquid",
+   "name": "Humates 12.5% (Liquid)",
+   "grade": "Humates 12.5%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "liquid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A ready liquid humate for drip, drench and soil application, convenient for retail packs and farm use.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humates-12-5-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "humic-acid-51-granular",
+   "name": "Humic acid 51% (Granular)",
+   "grade": "Humic acid 51%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A high-content humic granule for basal application, broadcast or mixed with fertiliser at sowing and top dressing.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-51-granular",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "humic-acid-1-5-granules",
+   "name": "Humic acid 1.5% (Granules)",
+   "grade": "Humic acid 1.5%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A low-dose humic granule made for easy broadcast with fertiliser, the kind of product farmers often buy as soil granules.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-1-5-granules",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "humic-and-fulvic-acid-25-05-liquid",
+   "name": "Humic and fulvic acid 25.05% (Liquid)",
+   "grade": "Humic and fulvic acid 25.05%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "liquid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A liquid with both humic and fulvic fractions, suited to drip, drench and, where the label allows, foliar programmes.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-and-fulvic-acid-25-05-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "humic-and-fulvic-acid-76-powder",
+   "name": "Humic and fulvic acid 76% (Powder)",
+   "grade": "Humic and fulvic acid 76%",
+   "category": "biostimulant",
+   "cat_label": "Humic and fulvic acid",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "Soil conditioning in compact, low organic-matter or over-cropped soils",
+   "desc": "A concentrated soluble humic and fulvic powder for formulators, fertigation and high-value liquid products.",
+   "benefits": [
+    "Soil conditioning in compact, low organic-matter or over-cropped soils",
+    "Holding nutrients near the root zone so less is lost from the profile",
+    "Complexing micronutrients and improving their availability",
+    "Supporting early root development at sowing or transplanting",
+    "Getting more value from the fertiliser already being applied"
+   ],
+   "apply": [
+    "Basal application mixed with fertiliser (granules and powders)",
+    "Drip or fertigation (liquids and soluble powders)",
+    "Soil drench around the root zone",
+    "Foliar spray (fulvic and fully soluble grades)"
+   ],
+   "mixing": "Humic grades mix with most fertilisers. Avoid tank-mixing with strongly acidic products or high-calcium solutions without a jar test, because humic acid can precipitate at low pH.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Formulator / B2B only",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-and-fulvic-acid-76-powder",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "ascophyllum-nodosum-15-liquid",
+   "name": "Ascophyllum nodosum 15% (Liquid)",
+   "grade": "Ascophyllum nodosum 15%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "A concentrated extract of the North Atlantic brown seaweed Ascophyllum nodosum, the most widely used seaweed in biostimulants worldwide.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/ascophyllum-nodosum-15-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "ascophyllum-nodosum-7-liquid",
+   "name": "Ascophyllum nodosum 7% (Liquid)",
+   "grade": "Ascophyllum nodosum 7%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "A lower-concentration Ascophyllum nodosum extract, a cost-effective choice for retail packs and regular foliar programmes.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/ascophyllum-nodosum-7-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "kappaphycus-alvarezii-24-liquid",
+   "name": "Kappaphycus alvarezii 24% (Liquid)",
+   "grade": "Kappaphycus alvarezii 24%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "A concentrated extract of the red seaweed Kappaphycus alvarezii, which is farmed along India's south-east coast.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/kappaphycus-alvarezii-24-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "kappaphycus-alvarezii-9-5-liquid",
+   "name": "Kappaphycus alvarezii 9.5% (Liquid)",
+   "grade": "Kappaphycus alvarezii 9.5%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "A mid-strength Kappaphycus alvarezii extract for foliar and drip use in field and horticulture crops.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/kappaphycus-alvarezii-9-5-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "kappaphycus-alvarezii-7-2-liquid",
+   "name": "Kappaphycus alvarezii 7.2% (Liquid)",
+   "grade": "Kappaphycus alvarezii 7.2%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "A ready-to-dilute Kappaphycus alvarezii extract suited to retail packs and frequent foliar sprays.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/kappaphycus-alvarezii-7-2-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "sargassum-tenerrimum-10-liquid",
+   "name": "Sargassum tenerrimum 10% (Liquid)",
+   "grade": "Sargassum tenerrimum 10%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "A liquid extract of Sargassum tenerrimum, a tropical brown seaweed found along Indian coasts.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/sargassum-tenerrimum-10-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "sargassum-tenerrimum-2-granular",
+   "name": "Sargassum tenerrimum 2% (Granular)",
+   "grade": "Sargassum tenerrimum 2%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "solid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "Sargassum tenerrimum extract in granular form, so seaweed can go into the soil with basal fertiliser.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/sargassum-tenerrimum-2-granular",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "kappaphycus-alvarezii-sargassum-swartzii-1-1-liquid",
+   "name": "Kappaphycus alvarezii + Sargassum swartzii (1:1) (Liquid)",
+   "grade": "Kappaphycus alvarezii + Sargassum swartzii (1:1)",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "Equal parts red seaweed (Kappaphycus) and brown seaweed (Sargassum) extract, combining two seaweed profiles in one liquid.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/kappaphycus-alvarezii-sargassum-swartzii-1-1-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "spirulina-10-liquid",
+   "name": "Spirulina 10% (Liquid)",
+   "grade": "Spirulina 10%",
+   "category": "biostimulant",
+   "cat_label": "Seaweed extract",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "Helping crops cope with heat, drought and salt stress",
+   "desc": "An extract of Spirulina, a blue-green micro-alga rich in protein, used as an algal biostimulant input.",
+   "benefits": [
+    "Helping crops cope with heat, drought and salt stress",
+    "Supporting flowering, fruit set and fruit development",
+    "Supporting root and shoot growth in the early crop",
+    "Recovery after transplanting, hail or pest damage",
+    "Quality-focused programmes in fruit and vegetable crops"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Seed or seedling dip",
+    "Soil application (granular grades)"
+   ],
+   "mixing": "Seaweed extracts mix with most foliar nutrients and many crop-protection products. Always run a jar test first and spray in the cooler part of the day.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/spirulina-10-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "adhatoda-vasica-powder",
+   "name": "Adhatoda vasica (Powder)",
+   "grade": "Adhatoda vasica",
+   "category": "biostimulant",
+   "cat_label": "Botanical extracts",
+   "form": "solid",
+   "icon": "🌿",
+   "short": "Botanical input for biostimulant formulations",
+   "desc": "Powdered Adhatoda vasica (adulsa), a botanical input for formulators and blended products.",
+   "benefits": [
+    "Botanical input for biostimulant formulations",
+    "Foliar programmes where a plant-based input is preferred",
+    "Blending with seaweed extracts (see our botanical plus seaweed grade)"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Formulation by brand owners and formulators"
+   ],
+   "mixing": "Run a jar test before mixing with other products. Ask for the technical sheet for handling and storage.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Formulator / B2B only",
+   "specs_url": "https://b2b.gujaratbio.com/products/adhatoda-vasica-powder",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "adhatoda-vasica-extract-2-liquid",
+   "name": "Adhatoda vasica extract 2% (Liquid)",
+   "grade": "Adhatoda vasica extract 2%",
+   "category": "biostimulant",
+   "cat_label": "Botanical extracts",
+   "form": "liquid",
+   "icon": "🌿",
+   "short": "Botanical input for biostimulant formulations",
+   "desc": "A liquid extract of Adhatoda vasica at 2%, for foliar programmes and formulation.",
+   "benefits": [
+    "Botanical input for biostimulant formulations",
+    "Foliar programmes where a plant-based input is preferred",
+    "Blending with seaweed extracts (see our botanical plus seaweed grade)"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Formulation by brand owners and formulators"
+   ],
+   "mixing": "Run a jar test before mixing with other products. Ask for the technical sheet for handling and storage.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/adhatoda-vasica-extract-2-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "humic-acid-amino-acid-vitamins-bio-chemicals-powder",
+   "name": "Humic acid + amino acid + vitamins + bio-chemicals (Powder)",
+   "grade": "Humic acid + amino acid + vitamins + bio-chemicals",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "A powder combining humic acid, amino acids, vitamins and bio-chemicals in one soluble product.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-amino-acid-vitamins-bio-chemicals-powder",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "seaweed-algal-extract-liquid",
+   "name": "Seaweed + algal extract (Liquid)",
+   "grade": "Seaweed + algal extract",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "A liquid combining seaweed and algal extracts for foliar and drip programmes.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/seaweed-algal-extract-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "seaweed-humic-and-fulvic-acid-amino-acids-vitamins-liquid",
+   "name": "Seaweed + humic and fulvic acid + amino acids + vitamins (Liquid)",
+   "grade": "Seaweed + humic and fulvic acid + amino acids + vitamins",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "liquid",
+   "icon": "🌱",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "An all-in-one liquid: seaweed, humic and fulvic acid, amino acids and vitamins in a single product.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/seaweed-humic-and-fulvic-acid-amino-acids-vitamins-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "humic-acid-seaweed-extract-liquid",
+   "name": "Humic acid + seaweed extract (Liquid)",
+   "grade": "Humic acid + seaweed extract",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "liquid",
+   "icon": "🌱",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "Humic acid and seaweed extract in one liquid, for drip and drench programmes.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-seaweed-extract-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "humic-acid-seaweed-extract-powder",
+   "name": "Humic acid + seaweed extract (Powder)",
+   "grade": "Humic acid + seaweed extract",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "Humic acid and seaweed extract as a soluble powder, convenient to store and ship.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-seaweed-extract-powder",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "humic-acid-seaweed-extract-granules",
+   "name": "Humic acid + seaweed extract (Granules)",
+   "grade": "Humic acid + seaweed extract",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "solid",
+   "icon": "🌱",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "Humic acid and seaweed extract on a granule for basal and broadcast application, often sold as seaweed or zyme-type granules.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/humic-acid-seaweed-extract-granules",
+   "packs": {
+    "500g": null,
+    "1kg": null,
+    "2kg": null,
+    "4kg": null,
+    "8kg": null,
+    "25kg": null
+   }
+  },
+  {
+   "id": "botanical-extract-seaweed-extract-liquid",
+   "name": "Botanical extract + seaweed extract (Liquid)",
+   "grade": "Botanical extract + seaweed extract",
+   "category": "biostimulant",
+   "cat_label": "Blended biostimulants",
+   "form": "liquid",
+   "icon": "🌊",
+   "short": "One-pass programmes that cut the number of applications",
+   "desc": "A liquid combining a botanical extract with seaweed extract.",
+   "benefits": [
+    "One-pass programmes that cut the number of applications",
+    "Combining soil action (humic) with stress support (seaweed)",
+    "Ready-to-sell crop programmes for distributors and private-label brands"
+   ],
+   "apply": [
+    "Basal or broadcast (granules and powders)",
+    "Drip or fertigation (liquids)",
+    "Foliar spray (liquids)"
+   ],
+   "mixing": "Blends are designed to be stable as supplied. Jar-test before tank-mixing with other products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/botanical-extract-seaweed-extract-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "protein-hydrolysate-animal-source-36-04-liquid",
+   "name": "Protein hydrolysate, animal source 36.04% (Liquid)",
+   "grade": "Protein hydrolysate, animal source 36.04%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "A liquid protein hydrolysate from animal protein, with a profile rich in glycine and proline.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/protein-hydrolysate-animal-source-36-04-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "protein-hydrolysate-plant-source-25-liquid-granule-or-powder",
+   "name": "Protein hydrolysate, plant source 25% (Liquid, granule or powder)",
+   "grade": "Protein hydrolysate, plant source 25%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "A plant-source protein hydrolysate at 25%, available as liquid, granule or powder.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/protein-hydrolysate-plant-source-25",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "protein-hydrolysate-plant-source-16-9-liquid-granule-or-powder",
+   "name": "Protein hydrolysate, plant source 16.9% (Liquid, granule or powder)",
+   "grade": "Protein hydrolysate, plant source 16.9%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "A plant-source protein hydrolysate at 16.9%, available as liquid, granule or powder.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/protein-hydrolysate-plant-source-16-9",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "protein-hydrolysate-plant-source-1-5-liquid-granule-or-powder",
+   "name": "Protein hydrolysate, plant source 1.5% (Liquid, granule or powder)",
+   "grade": "Protein hydrolysate, plant source 1.5%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "A low-concentration plant-source protein hydrolysate, suited to granules and ready-to-use packs.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/protein-hydrolysate-plant-source-1-5",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "protein-hydrolysate-plant-source-27-liquid-granule-or-powder",
+   "name": "Protein hydrolysate, plant source 27% (Liquid, granule or powder)",
+   "grade": "Protein hydrolysate, plant source 27%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "A higher-concentration plant-source protein hydrolysate at 27%, available as liquid, granule or powder.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/protein-hydrolysate-plant-source-27",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "amino-acid-5-liquid-granule-or-powder",
+   "name": "Amino acid 5% (Liquid, granule or powder)",
+   "grade": "Amino acid 5%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "Free amino acids at 5%, available as liquid, granule or powder.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/amino-acid-5",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "amino-acid-10-liquid-granule-or-powder",
+   "name": "Amino acid 10% (Liquid, granule or powder)",
+   "grade": "Amino acid 10%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "Free amino acids at 10%, available as liquid, granule or powder.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/amino-acid-10",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "amino-acid-20-liquid-granule-or-powder",
+   "name": "Amino acid 20% (Liquid, granule or powder)",
+   "grade": "Amino acid 20%",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "Free amino acids at 20%, our most concentrated amino acid grade, as liquid, granule or powder.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/amino-acid-20",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "vinasse-residue-glutamic-acid-18-liquid",
+   "name": "Vinasse residue (glutamic acid 18%) (Liquid)",
+   "grade": "Vinasse residue (glutamic acid 18%)",
+   "category": "biostimulant",
+   "cat_label": "Amino acid and protein hydrolysate",
+   "form": "liquid",
+   "icon": "💧",
+   "short": "Supporting recovery after cold, heat, transplanting or pest damage",
+   "desc": "A liquid from the fermentation residue of glutamic acid production, carrying 18% glutamic acid and organic matter.",
+   "benefits": [
+    "Supporting recovery after cold, heat, transplanting or pest damage",
+    "Early growth and canopy development",
+    "Flowering and fruit set programmes",
+    "Complexing micronutrients in foliar formulations"
+   ],
+   "apply": [
+    "Foliar spray",
+    "Drip or fertigation",
+    "Formulation base for brand owners"
+   ],
+   "mixing": "Amino acid products mix with most foliar nutrients and seaweed extracts. Jar-test before mixing with copper or strongly alkaline products.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Formulator / B2B only",
+   "specs_url": "https://b2b.gujaratbio.com/products/vinasse-residue-glutamic-acid-18-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "2-bromo-1h-indole-3-carboxaldehyde-1-ppm-liquid",
+   "name": "2-Bromo-(1H)-indole-3-carboxaldehyde 1 ppm (Liquid)",
+   "grade": "2-Bromo-(1H)-indole-3-carboxaldehyde 1 ppm",
+   "category": "biostimulant",
+   "cat_label": "Bio-chemical grades",
+   "form": "liquid",
+   "icon": "🌿",
+   "short": "Low-dose bio-chemical input for formulations",
+   "desc": "A bio-chemical grade used at 1 ppm, supplied mainly to formulators.",
+   "benefits": [
+    "Low-dose bio-chemical input for formulations"
+   ],
+   "apply": [
+    "Formulation by brand owners and formulators"
+   ],
+   "mixing": "Ask for the technical sheet for handling, mixing and storage.",
+   "crops": [
+    "All crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Formulator / B2B only",
+   "specs_url": "https://b2b.gujaratbio.com/products/2-bromo-1h-indole-3-carboxaldehyde-1-ppm-liquid",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "azotobacter-liquid-or-carrier-powder",
+   "name": "Azotobacter (Liquid or carrier (powder))",
+   "grade": "Azotobacter",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Nitrogen fixing",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Nitrogen fixing",
+   "desc": "A free-living, aerobic soil bacterium that fixes atmospheric nitrogen. It is used for non-legume crops such as cereals, vegetables, cotton and sugarcane.",
+   "benefits": [
+    "Nitrogen fixing"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "Cereals and millets",
+    "Vegetables",
+    "Cotton",
+    "Sugarcane"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/azotobacter-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "carrier-based-consortia-liquid-or-carrier-powder",
+   "name": "Carrier-based consortia (Liquid or carrier (powder))",
+   "grade": "Carrier-based consortia",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: NPK consortia",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "NPK consortia",
+   "desc": "A mix of compatible nitrogen-fixing, phosphate-solubilising and potash-mobilising organisms on a solid carrier, for soil and seed application.",
+   "benefits": [
+    "NPK consortia"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "All crops",
+    "Mixing with compost or organic manure"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/carrier-based-consortia-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "azospirillum-liquid-or-carrier-powder",
+   "name": "Azospirillum (Liquid or carrier (powder))",
+   "grade": "Azospirillum",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Nitrogen fixing",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Nitrogen fixing",
+   "desc": "A bacterium that lives in close association with plant roots and fixes nitrogen. It is widely used in cereals, millets, sugarcane and fodder grasses.",
+   "benefits": [
+    "Nitrogen fixing"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "Paddy, wheat, maize and millets",
+    "Sugarcane",
+    "Fodder grasses"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/azospirillum-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "liquid-consortia-liquid-or-carrier-powder",
+   "name": "Liquid consortia (Liquid or carrier (powder))",
+   "grade": "Liquid consortia",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: NPK consortia",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "NPK consortia",
+   "desc": "A liquid formulation of compatible N, P and K organisms. Liquid forms keep a longer shelf life than carrier forms and suit drip application.",
+   "benefits": [
+    "NPK consortia"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "All crops",
+    "Drip-irrigated crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/liquid-consortia-npk-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "mycorrhizal-biofertilisers-liquid-or-carrier-powder",
+   "name": "Mycorrhizal biofertilisers (Liquid or carrier (powder))",
+   "grade": "Mycorrhizal biofertilisers",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Phosphorus and water",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Phosphorus and water",
+   "desc": "Arbuscular mycorrhizal fungi that colonise roots and extend a fine network into the soil, helping the crop take up phosphorus, water and micronutrients.",
+   "benefits": [
+    "Phosphorus and water"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "Fruit crops and nurseries",
+    "Vegetables",
+    "Field crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/mycorrhizal-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "phosphate-solubilising-bacteria-liquid-or-carrier-powder",
+   "name": "Phosphate solubilising bacteria (Liquid or carrier (powder))",
+   "grade": "Phosphate solubilising bacteria",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Phosphorus",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Phosphorus",
+   "desc": "Bacteria (PSB) that release organic acids and enzymes which convert bound, insoluble soil phosphorus into forms the crop can take up.",
+   "benefits": [
+    "Phosphorus"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "All field crops",
+    "Vegetables",
+    "Fruit crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/phosphate-solubilising-bacteria",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "potash-mobilising-bacteria-kmb-liquid-or-carrier-powder",
+   "name": "Potash mobilising bacteria (KMB) (Liquid or carrier (powder))",
+   "grade": "Potash mobilising bacteria (KMB)",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Potassium",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Potassium",
+   "desc": "Bacteria (KMB or KSB) that help release potassium held in soil minerals, so more of the soil's own potash reaches the crop.",
+   "benefits": [
+    "Potassium"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "All field crops",
+    "Banana, potato and sugarcane",
+    "Fruit crops"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/potash-mobilising-bacteria",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "acetobacter-liquid-or-carrier-powder",
+   "name": "Acetobacter (Liquid or carrier (powder))",
+   "grade": "Acetobacter",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Nitrogen fixing",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Nitrogen fixing",
+   "desc": "An endophytic nitrogen-fixing bacterium (Gluconacetobacter diazotrophicus) best known for living inside sugarcane tissue, where it supplies nitrogen from within the plant.",
+   "benefits": [
+    "Nitrogen fixing"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "Sugarcane",
+    "Sugar beet and sweet sorghum"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/acetobacter-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "rhizobium-liquid-or-carrier-powder",
+   "name": "Rhizobium (Liquid or carrier (powder))",
+   "grade": "Rhizobium",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Nitrogen fixing",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Nitrogen fixing",
+   "desc": "Bacteria that form nodules on legume roots and fix nitrogen inside them. Strains are crop-specific, so the culture must match the legume being grown.",
+   "benefits": [
+    "Nitrogen fixing"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "Groundnut, soybean and pulses",
+    "Chickpea, pigeon pea, green gram and black gram"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/rhizobium-biofertiliser",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "zinc-solubilising-bacteria-liquid-or-carrier-powder",
+   "name": "Zinc solubilising bacteria (Liquid or carrier (powder))",
+   "grade": "Zinc solubilising bacteria",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Zinc",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Zinc",
+   "desc": "Bacteria (ZSB) that convert insoluble zinc compounds in the soil into available forms, useful where zinc deficiency is common.",
+   "benefits": [
+    "Zinc"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "Paddy, wheat and maize",
+    "Zinc-deficient soils generally"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/zinc-solubilising-bacteria",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  },
+  {
+   "id": "phosphate-solubilising-fungal-biofertilisers-liquid-or-carrier-powder",
+   "name": "Phosphate solubilising fungal biofertilisers (Liquid or carrier (powder))",
+   "grade": "Phosphate solubilising fungal biofertilisers",
+   "category": "biofertilizer",
+   "cat_label": "Biofertiliser: Phosphorus",
+   "form": "liquid",
+   "icon": "🦠",
+   "short": "Phosphorus",
+   "desc": "Soil fungi that release phosphorus from insoluble forms, used alongside or instead of phosphate solubilising bacteria.",
+   "benefits": [
+    "Phosphorus"
+   ],
+   "apply": [
+    "Seed treatment",
+    "seedling root dip",
+    "soil application mixed with compost",
+    "drip (liquid forms)"
+   ],
+   "mixing": "Keep away from chemical fungicides and bactericides; store cool and out of sun; use before expiry",
+   "crops": [
+    "All field crops",
+    "Acidic and calcareous soils"
+   ],
+   "dose": "Dose as per label and crop dose chart — ask on WhatsApp for your crop.",
+   "d2c_fit": "Good for farmers",
+   "specs_url": "https://b2b.gujaratbio.com/products/phosphate-solubilising-fungi",
+   "packs": {
+    "250ml": null,
+    "500ml": null,
+    "1L": null,
+    "5L": null
+   }
+  }
+ ],
+ "_generated_from": "18e34e78-GBO-D2C-Product-List-47.xlsx"
+}
